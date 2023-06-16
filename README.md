@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Igor
 - 👀 I’m interested in linguagens de computação
 - 🌱 I’m currently learning HTML e css;
-- 💞️ I’m looking to collaborate on HTML E JAVA SCRIPT;
+- 💞️ I’m looking to collaborate on HTML, JAVA SCRIPT;
 - 📫 How to reach me igor.simionatto@escola.pr.gov.br.
 
 <!---
